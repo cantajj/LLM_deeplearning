@@ -1,2 +1,6 @@
 # LLM_deeplearning
-딥러닝 입문부터 응용까지
+
+### 딥 러닝을 이용한 자연어 처리 입문
+
+※ 출처 : https://wikidocs.net/book/2155
+
